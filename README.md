@@ -1,4 +1,4 @@
 # TRIAL
 This is my after long time git project :)
 <br>
-<b><i>Author - Sejal Deshpande</b></i>
+<b><i>Author - Sejal Sameer Deshpande</b></i>
